@@ -1,2 +1,2 @@
-# business_analytics
+# Business Analytics
 Business Analytics
